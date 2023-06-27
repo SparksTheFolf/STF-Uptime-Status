@@ -9,7 +9,7 @@ sites:
     url: https://yiffed.net/
   - name: Folf Blog
     url: https://folf.blog/
- - name: Wuffs Main Load Infrastructure
+  - name: Wuffs Main Load Infrastructure
     check: "tcp-ping"
     url: $LINODEUSWEST
     port: 53
