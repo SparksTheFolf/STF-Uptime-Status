@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 264,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 265,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -46,16 +46,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   },
   {
     "name": "Wuffs Main Load Infrastructure",
-    "url": "$LINODEUSWEST",
+    "url": "96.126.96.29",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-main-load-infrastructure",
     "status": "down",
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 7
+      "2023-06-27": 11
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 6
+      "2023-06-27": 11
     }
   }
 ]
