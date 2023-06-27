@@ -14,9 +14,7 @@ sites:
     url: $WUFFSDNS
     port: 22
   - name: Wuffs Main West
-    check: "tcp-ping"
-    url: $MAININFA
-    port: 22
+    url: 	https://linode-us-west.wuffs.net/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
