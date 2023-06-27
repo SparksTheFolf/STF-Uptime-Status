@@ -12,11 +12,11 @@ sites:
   - name: Wuffs Main Load Infrastructure
     check: "tcp-ping"
     url: $LINODEUSWEST
-    port: 53
+    port: 22
   - name: Wuffs DNS 1
     check: "tcp-ping"
     url: $LINODEUSWEST1
-    port: 53
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
