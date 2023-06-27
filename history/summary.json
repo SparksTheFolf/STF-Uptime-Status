@@ -55,7 +55,7 @@
   },
   {
     "name": "Wuffs Main Load Infrastructure",
-    "url": "96.126.96.29",
+    "url": "$MAININFA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-main-load-infrastructure",
     "status": "down",
@@ -70,20 +70,20 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 32
+      "2023-06-27": 40
     }
   },
   {
     "name": "Wuffs DNS 1",
-    "url": "45.79.86.251",
+    "url": "$WUFFSDNS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-dns-1",
     "status": "up",
-    "uptime": "5.60%",
-    "uptimeDay": "5.60%",
-    "uptimeWeek": "5.60%",
-    "uptimeMonth": "5.60%",
-    "uptimeYear": "5.60%",
+    "uptime": "24.57%",
+    "uptimeDay": "24.57%",
+    "uptimeWeek": "24.57%",
+    "uptimeMonth": "24.57%",
+    "uptimeYear": "24.57%",
     "time": 47,
     "timeDay": 47,
     "timeWeek": 47,
