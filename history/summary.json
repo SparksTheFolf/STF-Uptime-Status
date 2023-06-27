@@ -52,5 +52,45 @@
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "US Linode West Main",
+    "url": "$LINODEUSWEST",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "us-linode-west-main",
+    "status": "up",
+    "uptime": "4.23%",
+    "uptimeDay": "4.23%",
+    "uptimeWeek": "4.23%",
+    "uptimeMonth": "4.23%",
+    "uptimeYear": "4.23%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
+  },
+  {
+    "name": "US Linode West Secondary",
+    "url": "$LINODEUSWEST1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "us-linode-west-secondary",
+    "status": "up",
+    "uptime": "8.12%",
+    "uptimeDay": "8.12%",
+    "uptimeWeek": "8.12%",
+    "uptimeMonth": "8.12%",
+    "uptimeYear": "8.12%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   }
 ]
