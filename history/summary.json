@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-dns-1",
     "status": "up",
-    "uptime": "47.40%",
-    "uptimeDay": "47.40%",
-    "uptimeWeek": "47.40%",
-    "uptimeMonth": "47.40%",
-    "uptimeYear": "47.40%",
+    "uptime": "59.78%",
+    "uptimeDay": "59.78%",
+    "uptimeWeek": "59.78%",
+    "uptimeMonth": "59.78%",
+    "uptimeYear": "59.78%",
     "time": 40,
     "timeDay": 40,
     "timeWeek": 40,
@@ -71,6 +71,26 @@
     "timeYear": 40,
     "dailyMinutesDown": {
       "2023-06-27": 30
+    }
+  },
+  {
+    "name": "Wuffs Main West",
+    "url": "$MAININFA",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "wuffs-main-west",
+    "status": "up",
+    "uptime": "29.64%",
+    "uptimeDay": "29.64%",
+    "uptimeWeek": "29.64%",
+    "uptimeMonth": "29.64%",
+    "uptimeYear": "29.64%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
     }
   }
 ]
