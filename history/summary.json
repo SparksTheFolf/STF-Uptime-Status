@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 41
+      "2023-06-27": 51
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-dns-1",
     "status": "up",
-    "uptime": "26.24%",
-    "uptimeDay": "26.24%",
-    "uptimeWeek": "26.24%",
-    "uptimeMonth": "26.24%",
-    "uptimeYear": "26.24%",
+    "uptime": "40.31%",
+    "uptimeDay": "40.31%",
+    "uptimeWeek": "40.31%",
+    "uptimeMonth": "40.31%",
+    "uptimeYear": "40.31%",
     "time": 47,
     "timeDay": 47,
     "timeWeek": 47,
