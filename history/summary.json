@@ -55,7 +55,7 @@
   },
   {
     "name": "Wuffs Main Load Infrastructure",
-    "url": "$LINODEUSWEST",
+    "url": "96.126.96.29",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-main-load-infrastructure",
     "status": "down",
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 7
+      "2023-06-27": 11
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 6
+      "2023-06-27": 11
     }
   }
 ]
