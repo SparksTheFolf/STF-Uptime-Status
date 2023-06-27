@@ -11,7 +11,7 @@ sites:
     url: https://folf.blog/
   - name: Wuffs Main Load Infrastructure
     check: "tcp-ping"
-    url: $LINODEUSWEST
+    url: 96.126.96.29
     port: 22
   - name: Wuffs DNS 1
     check: "tcp-ping"
