@@ -15,7 +15,7 @@ sites:
     port: 22
   - name: Wuffs DNS 1
     check: "tcp-ping"
-    url: $LINODEUSWEST1
+    url: 45.79.86.251
     port: 22
 
 status-website:
@@ -34,6 +34,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Blog
       href: https://folf.blog
+
+status-website:
+  theme: dark
     
 
 # Upptime also supports notifications, assigning issues, and more
