@@ -10,7 +10,7 @@ sites:
   - name: Folf Blog
     url: https://folf.blog/
 
-  assignees: # Users to assign downtime issues (optional)
+assignees: # Users to assign downtime issues (optional)
   - SparksTheFolf
 
 status-website:
