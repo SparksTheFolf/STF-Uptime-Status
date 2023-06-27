@@ -35,9 +35,5 @@ status-website:
     - title: Blog
       href: https://folf.blog
 
-status-website:
-  theme: dark
-    
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
