@@ -70,12 +70,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 11
+      "2023-06-27": 30
     }
   },
   {
     "name": "Wuffs DNS 1",
-    "url": "$LINODEUSWEST1",
+    "url": "45.79.86.251",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wuffs-dns-1",
     "status": "down",
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 11
+      "2023-06-27": 30
     }
   }
 ]
