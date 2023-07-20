@@ -22,18 +22,20 @@
     "url": "https://yiffed.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yiffed.net.ico",
     "slug": "yiffed-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 285,
-    "timeWeek": 313,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 267,
+    "timeDay": 222,
+    "timeWeek": 294,
+    "timeMonth": 267,
+    "timeYear": 267,
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "Folf Blog",
