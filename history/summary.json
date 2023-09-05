@@ -4,9 +4,9 @@
     "url": "https://wuffs.net/",
     "icon": "https://icons.duckduckgo.com/ip3/wuffs.net.ico",
     "slug": "wuffs-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,26 +15,28 @@
     "timeWeek": 258,
     "timeMonth": 243,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-05": 0
+    }
   },
   {
     "name": "Yiffed Main",
     "url": "https://yiffed.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yiffed.net.ico",
     "slug": "yiffed-main",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 313,
-    "timeWeek": 291,
-    "timeMonth": 258,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 262,
+    "timeDay": 309,
+    "timeWeek": 292,
+    "timeMonth": 260,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-09-05": 0
+      "2023-09-05": 24
     }
   },
   {
