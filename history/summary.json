@@ -6,7 +6,7 @@
     "slug": "wuffs-main",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "74.62%",
+    "uptimeDay": "74.61%",
     "uptimeWeek": "95.51%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 959,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-09-06": 364,
       "2023-09-05": 87
     }
@@ -25,19 +26,19 @@
     "url": "https://yiffed.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yiffed.net.ico",
     "slug": "yiffed-main",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "66.35%",
-    "uptimeWeek": "92.49%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "99.27%",
-    "time": 469,
-    "timeDay": 1038,
-    "timeWeek": 774,
-    "timeMonth": 612,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "66.36%",
+    "uptimeWeek": "92.37%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.26%",
+    "time": 467,
+    "timeDay": 1015,
+    "timeWeek": 763,
+    "timeMonth": 606,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-09-07": 11,
+      "2023-09-07": 23,
       "2023-09-06": 483,
       "2023-09-05": 262
     }
