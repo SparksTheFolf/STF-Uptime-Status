@@ -4,12 +4,12 @@
     "url": "https://wuffs.net/",
     "icon": "https://icons.duckduckgo.com/ip3/wuffs.net.ico",
     "slug": "wuffs-main",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "72.05%",
-    "uptimeWeek": "73.50%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "97.63%",
+    "status": "down",
+    "uptime": "97.64%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "73.65%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "97.64%",
     "time": 867,
     "timeDay": 1439,
     "timeWeek": 1036,
@@ -23,7 +23,7 @@
       "2023-09-09": 331,
       "2023-09-08": 415,
       "2023-09-07": 359,
-      "2023-09-06": 117
+      "2023-09-06": 102
     }
   },
   {
