@@ -11,7 +11,7 @@
     "uptimeMonth": "93.90%",
     "uptimeYear": "97.64%",
     "time": 851,
-    "timeDay": 1416,
+    "timeDay": 1446,
     "timeWeek": 978,
     "timeMonth": 976,
     "timeYear": 851,
@@ -31,15 +31,15 @@
     "url": "https://yiffed.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yiffed.net.ico",
     "slug": "yiffed-main",
-    "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "67.03%",
-    "uptimeWeek": "74.47%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "97.73%",
+    "status": "down",
+    "uptime": "97.76%",
+    "uptimeDay": "67.42%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "97.76%",
     "time": 762,
     "timeDay": 1082,
-    "timeWeek": 1002,
+    "timeWeek": 1004,
     "timeMonth": 865,
     "timeYear": 762,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2023-09-11": 432,
       "2023-09-10": 365,
       "2023-09-09": 504,
-      "2023-09-08": 371
+      "2023-09-08": 334
     }
   },
   {
