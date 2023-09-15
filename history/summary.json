@@ -6,8 +6,8 @@
     "slug": "wuffs-main",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "74.02%",
+    "uptimeDay": "85.96%",
+    "uptimeWeek": "74.12%",
     "uptimeMonth": "93.78%",
     "uptimeYear": "97.65%",
     "time": 1012,
@@ -31,12 +31,12 @@
     "url": "https://yiffed.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yiffed.net.ico",
     "slug": "yiffed-main",
-    "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "70.64%",
-    "uptimeWeek": "75.43%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "97.86%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "75.65%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "97.88%",
     "time": 981,
     "timeDay": 2360,
     "timeWeek": 1362,
@@ -48,7 +48,7 @@
       "2023-09-13": 512,
       "2023-09-12": 560,
       "2023-09-11": 432,
-      "2023-09-10": 276
+      "2023-09-10": 254
     }
   },
   {
