@@ -5,14 +5,9 @@ repo: STF-Uptime-Status # The name of this repository
 sites:
   - name: Wuffs Main
     url: https://wuffs.net/
-  - name: Yiffed Main
-    url: https://yiffed.net/
   - name: Folf Blog
     url: https://folf.blog/
-  - name: Wuffs DNS 1
-    check: "tcp-ping"
-    url: $WUFFSDNS
-    port: 22
+
   
 status-website:
   theme: dark
