@@ -7,14 +7,7 @@ sites:
     url: https://wuffs.net/
   - name: Blog
     url: https://blog.trpn.dev
-  - name: HMS Authority Issuance Server
-    check: "tcp-ping"
-    url: $HMS_CA_AUTHORITY
-    port: 22
-  - name: HMS Authority Frontend Server
-    check: "tcp-ping"
-    url: $HMS_CA_FRONTEND
-    port: 22
+
   
 status-website:
   theme: dark
