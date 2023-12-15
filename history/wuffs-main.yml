@@ -1,7 +1,7 @@
 url: https://wuffs.net/
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2023-12-14T23:05:39.639Z
+status: down
+code: 409
+responseTime: 1245
+lastUpdated: 2023-12-15T21:34:29.581Z
 startTime: 2023-06-27T03:01:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
