@@ -6,17 +6,16 @@
     "slug": "wuffs-main",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 775,
+    "time": 774,
     "timeDay": 156,
-    "timeWeek": 177,
-    "timeMonth": 190,
-    "timeYear": 775,
+    "timeWeek": 161,
+    "timeMonth": 188,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-03-16": 11,
       "2023-09-15": 66,
       "2023-09-14": 338,
       "2023-09-13": 397,
@@ -24,7 +23,7 @@
       "2023-09-11": 440,
       "2023-09-10": 471,
       "2023-09-09": 331,
-      "2023-09-08": 306
+      "2023-09-08": 325
     }
   }
 ]
