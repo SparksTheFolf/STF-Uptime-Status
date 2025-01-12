@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wuffs.net.ico",
     "slug": "wuffs-main",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 146,
-    "timeWeek": 190,
-    "timeMonth": 237,
-    "timeYear": 215,
+    "time": 214,
+    "timeDay": 87,
+    "timeWeek": 185,
+    "timeMonth": 233,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   }
 ]
